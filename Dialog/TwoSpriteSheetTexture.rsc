@@ -1,5 +1,5 @@
 ImageBuffer resource {
-	String _imageName = "bin/SpriteSheet.png";
+	String _imageName = "Build/TwoSpriteSheet.png";
 	Type _type = Rectangle;
 	Usage _usage = Texture;
 	Format _format = RGBA8;
